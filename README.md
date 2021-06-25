@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@GeezMusicBot](https://t.me/GeezMusicBot)
+### Available on telegram as [@prazmusicbot](https://t.me/prazmusicbot)
 
 <h2> Features 🔥 </h2>
 
@@ -20,7 +20,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/Geez-MusicProject/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/agungprazz018/Geez-MusicProject/tree/master)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@vckyou/Geez-String-Session?lite=1&outputonly=1)
@@ -65,7 +65,7 @@ Don't edit this part
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Music Man won't exist. Geez Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
 
 #### Thank you very much
-- [Vckyou](https://github.com/Vckyou): Dev
+- [agungprazz018](https://github.com/agungprazz018): Dev
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Rojserbest](http://github.com/rojserbes): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
